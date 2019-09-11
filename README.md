@@ -5,9 +5,9 @@
 https://geoengineering-anci.netlify.com/
 
 ## Used tools
-https://github.com/yohasebe/engtagger
-http://zeto.io/facet/
-https://github.com/brysonian/mbox-to-json
+- https://github.com/yohasebe/engtagger
+- http://zeto.io/facet/
+- https://github.com/brysonian/mbox-to-json
 
 ## Build Setup
 
