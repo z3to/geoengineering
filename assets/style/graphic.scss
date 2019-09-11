@@ -1,36 +1,3 @@
-path.line {
-  stroke: #000;
-  stroke-width: 2px;
-  fill: none;
-}
-
-path.area {
-  fill: palette(grey, 70);
-  opacity: 0.2;
-}
-
-path {
-  &.negative {
-    fill: $color-green;
-    opacity: 0.3;
-  }
-
-  &.positive {
-    fill: $color-red;
-    opacity: 0.3;
-  }
-}
-
-rect {
-  &.clip {
-    transition-duration: 0.3s;
-  }
-}
-
-.graphic-element {
-  opacity: 1;
-}
-
 line {
   &.zero {
     stroke: palette(grey, 20);
@@ -167,55 +134,5 @@ text {
     // font-weight: $font-weight-bold;
     letter-spacing: $spacing-wide;
     font-size: $size-default;
-  }
-}
-
-circle {
-  transition-duration: 0.3s;
-
-  &.marker {
-    stroke: $color-red;
-    fill: none;
-    stroke-width: 2px;
-  }
-
-  &.dot {
-    // stroke: darken($color-red, 10);
-    fill: #5582b0;
-    opacity: 0.7;
-  }
-
-  &.active {
-    opacity: 1;
-    stroke-width: 2px;
-    stroke: #4a566c;
-  }
-}
-
-rect {
-  &.short {
-    opacity: 1;
-  }
-
-  &.long {
-    opacity: 0.5;
-  }
-}
-
-g {
-  &.NDC rect {
-    fill: #b7005e;
-  }
-
-  &.goodpractice rect {
-    fill: #d4584e;
-  }
-
-  &.netzero rect {
-    fill: #e67c3e;
-  }
-
-  &.eff rect {
-    fill: #feae00;
   }
 }
