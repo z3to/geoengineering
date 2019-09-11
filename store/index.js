@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import VTooltip from 'v-tooltip'
 import data from './modules/data'
-import { isUndefined, words, map, slice, get, forEach, fromPairs } from 'lodash'
+import { isUndefined, words, map, slice, get, forEach, fromPairs, sum } from 'lodash'
 import { schemeCategory10 } from 'd3-scale-chromatic'
 import { timeParse } from 'd3-time-format'
 
@@ -35,7 +35,10 @@ export const getters = {
     forEach(data, (list, month) => {
       const date = parseTime(month)
       forEach(terms, term => {
-        const amount = get(list, term.term, 0)
+        const chain = term.term.split('+')
+        const amount = sum(map(chain, item => {
+          return get(list, item, 0)
+        }))
         months[term.term].data.push([date, amount])
       })
     })
@@ -51,7 +54,7 @@ export const mutations = {
   SET_TERMS (state, input) {
     state.input = input
     if (!isUndefined(input)) {
-      const terms = slice(words(input), 0, 11)
+      const terms = slice(words(input, /[^, ]+/g), 0, 11)
       state.terms = map(terms, (term, i) => {
         return {
           term,
