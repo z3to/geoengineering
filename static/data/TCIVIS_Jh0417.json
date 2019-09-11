@@ -1,0 +1,2044 @@
+{
+  "data" : [
+    {
+      "country" : "Aruba",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 238
+    },
+    {
+      "country" : "Afghanistan",
+      "region" : "AS",
+      "gain" : 0.483808778,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 2675
+    },
+    {
+      "country" : "Angola",
+      "region" : "AF",
+      "gain" : 0.478546632,
+      "tci" : 3.75,
+      "total" : 0.595736231,
+      "other" : 0,
+      "rescaled" : 0.501397783,
+      "emissions" : 9480
+    },
+    {
+      "country" : "Albania",
+      "region" : "EU",
+      "gain" : 0.192048641,
+      "tci" : 4.777777778,
+      "total" : 0.438102874,
+      "other" : 1,
+      "rescaled" : 0.185137174,
+      "emissions" : 1559
+    },
+    {
+      "country" : "Netherlands Antilles",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : 0.345825197,
+      "rescaled" : null,
+      "emissions" : null
+    },
+    {
+      "country" : "United Arab Emirates",
+      "region" : "ME",
+      "gain" : 0.298560501,
+      "tci" : 7.285714286,
+      "total" : 0.67245189,
+      "other" : 0.844253875,
+      "rescaled" : 0.655312802,
+      "emissions" : 57641
+    },
+    {
+      "country" : "Argentina",
+      "region" : "SA",
+      "gain" : 0.259192439,
+      "tci" : 3.666666667,
+      "total" : 0.422125859,
+      "other" : null,
+      "rescaled" : 0.153082408,
+      "emissions" : 55638
+    },
+    {
+      "country" : "Armenia",
+      "region" : "AS",
+      "gain" : 0.230302923,
+      "tci" : 6.222222222,
+      "total" : 0.55533374,
+      "other" : null,
+      "rescaled" : 0.420338059,
+      "emissions" : 1508
+    },
+    {
+      "country" : "Antigua and Barbuda",
+      "region" : null,
+      "gain" : 0.384615931,
+      "tci" : 5.142857143,
+      "total" : 0.608264488,
+      "other" : null,
+      "rescaled" : 0.52653329,
+      "emissions" : 145
+    },
+    {
+      "country" : "Australia",
+      "region" : "OC",
+      "gain" : 0.322069071,
+      "tci" : 4.666666667,
+      "total" : 0.531248506,
+      "other" : null,
+      "rescaled" : 0.372015732,
+      "emissions" : 98517
+    },
+    {
+      "country" : "Austria",
+      "region" : "EU",
+      "gain" : 0.186884261,
+      "tci" : 5.444444444,
+      "total" : 0.474675316,
+      "other" : null,
+      "rescaled" : 0.258512651,
+      "emissions" : 16011
+    },
+    {
+      "country" : "Azerbaijan",
+      "region" : "AS",
+      "gain" : 0.192171039,
+      "tci" : 5.888888889,
+      "total" : 0.505764487,
+      "other" : null,
+      "rescaled" : 0.320887014,
+      "emissions" : 10223
+    },
+    {
+      "country" : "Burundi",
+      "region" : "AF",
+      "gain" : 0.534547061,
+      "tci" : 5,
+      "total" : 0.714778188,
+      "other" : null,
+      "rescaled" : 0.740232268,
+      "emissions" : 120
+    },
+    {
+      "country" : "Belgium",
+      "region" : "EU",
+      "gain" : 0.167738569,
+      "tci" : 6.555555556,
+      "total" : 0.527532115,
+      "other" : null,
+      "rescaled" : 0.364559518,
+      "emissions" : 25457
+    },
+    {
+      "country" : "Benin",
+      "region" : "AF",
+      "gain" : 0.50494359,
+      "tci" : 5.125,
+      "total" : 0.699633441,
+      "other" : null,
+      "rescaled" : 0.709847285,
+      "emissions" : 1723
+    },
+    {
+      "country" : "Burkina Faso",
+      "region" : "AF",
+      "gain" : 0.493919346,
+      "tci" : 4.142857143,
+      "total" : 0.631437958,
+      "other" : null,
+      "rescaled" : 0.573026341,
+      "emissions" : 777
+    },
+    {
+      "country" : "Bangladesh",
+      "region" : "AS",
+      "gain" : 0.470166882,
+      "tci" : 4.777777778,
+      "total" : 0.651797573,
+      "other" : null,
+      "rescaled" : 0.613873941,
+      "emissions" : 19959
+    },
+    {
+      "country" : "Bulgaria",
+      "region" : "EU",
+      "gain" : 0.209074321,
+      "tci" : 4.666666667,
+      "total" : 0.444427955,
+      "other" : null,
+      "rescaled" : 0.197827216,
+      "emissions" : 11567
+    },
+    {
+      "country" : "Bahrain",
+      "region" : "ME",
+      "gain" : 0.23909496,
+      "tci" : 8,
+      "total" : 0.67019729,
+      "other" : null,
+      "rescaled" : 0.650789386,
+      "emissions" : 8546
+    },
+    {
+      "country" : "Bahamas",
+      "region" : "NA",
+      "gain" : 0.406013208,
+      "tci" : 5.428571429,
+      "total" : 0.6420798,
+      "other" : null,
+      "rescaled" : 0.594377121,
+      "emissions" : 659
+    },
+    {
+      "country" : "Bosnia and Herzegovina",
+      "region" : "EU",
+      "gain" : 0.162433465,
+      "tci" : 4.666666667,
+      "total" : 0.408591025,
+      "other" : null,
+      "rescaled" : 0.125927402,
+      "emissions" : 6063
+    },
+    {
+      "country" : "Belarus",
+      "region" : "EU",
+      "gain" : 0.212783563,
+      "tci" : 5,
+      "total" : 0.467548255,
+      "other" : null,
+      "rescaled" : 0.244213592,
+      "emissions" : 17316
+    },
+    {
+      "country" : "Belize",
+      "region" : "NA",
+      "gain" : 0.343650682,
+      "tci" : 5.285714286,
+      "total" : 0.585475723,
+      "other" : null,
+      "rescaled" : 0.480812073,
+      "emissions" : 135
+    },
+    {
+      "country" : "Bermuda",
+      "region" : "NA",
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 157
+    },
+    {
+      "country" : "Bolivia",
+      "region" : "SA",
+      "gain" : 0.392289478,
+      "tci" : 4.666666667,
+      "total" : 0.585203,
+      "other" : null,
+      "rescaled" : 0.480264907,
+      "emissions" : 5566
+    },
+    {
+      "country" : "Brazil",
+      "region" : "SA",
+      "gain" : 0.322563989,
+      "tci" : 3.444444444,
+      "total" : 0.457304457,
+      "other" : null,
+      "rescaled" : 0.223661408,
+      "emissions" : 144480
+    },
+    {
+      "country" : "Barbados",
+      "region" : "NA",
+      "gain" : 0.338359999,
+      "tci" : 5.166666667,
+      "total" : 0.574171196,
+      "other" : null,
+      "rescaled" : 0.458131742,
+      "emissions" : 347
+    },
+    {
+      "country" : "Brunei Darussalam",
+      "region" : "AF",
+      "gain" : 0.224761287,
+      "tci" : 5.833333333,
+      "total" : 0.527427125,
+      "other" : null,
+      "rescaled" : 0.364348874,
+      "emissions" : 2484
+    },
+    {
+      "country" : "Bhutan",
+      "region" : "AS",
+      "gain" : 0.355515641,
+      "tci" : 4.5,
+      "total" : 0.54681235,
+      "other" : null,
+      "rescaled" : 0.40324155,
+      "emissions" : 273
+    },
+    {
+      "country" : "Bouvet Island",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : null
+    },
+    {
+      "country" : "Botswana",
+      "region" : "AF",
+      "gain" : 0.426777979,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 1918
+    },
+    {
+      "country" : "Central African Republic",
+      "region" : "AF",
+      "gain" : 0.650737341,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 82
+    },
+    {
+      "country" : "Canada",
+      "region" : "NA",
+      "gain" : 0.348597949,
+      "tci" : 4.555555556,
+      "total" : 0.544875456,
+      "other" : null,
+      "rescaled" : 0.399355551,
+      "emissions" : 146494
+    },
+    {
+      "country" : "Switzerland",
+      "region" : "EU",
+      "gain" : 0.157557715,
+      "tci" : 5.333333333,
+      "total" : 0.445385239,
+      "other" : null,
+      "rescaled" : 0.19974782,
+      "emissions" : 9628
+    },
+    {
+      "country" : "Chile",
+      "region" : "SA",
+      "gain" : 0.294792699,
+      "tci" : 5,
+      "total" : 0.530560726,
+      "other" : null,
+      "rescaled" : 0.370635835,
+      "emissions" : 22515
+    },
+    {
+      "country" : "China",
+      "region" : "AS",
+      "gain" : 0.282185491,
+      "tci" : 4.333333333,
+      "total" : 0.480333322,
+      "other" : null,
+      "rescaled" : 0.269864337,
+      "emissions" : 2806634
+    },
+    {
+      "country" : "Cote d'Ivoire",
+      "region" : "AF",
+      "gain" : 0.453961874,
+      "tci" : 4.875,
+      "total" : 0.645258469,
+      "other" : null,
+      "rescaled" : 0.600754502,
+      "emissions" : 3012
+    },
+    {
+      "country" : "Cameroon",
+      "region" : "AF",
+      "gain" : 0.428089648,
+      "tci" : 4,
+      "total" : 0.572169848,
+      "other" : null,
+      "rescaled" : 0.454116428,
+      "emissions" : 1910
+    },
+    {
+      "country" : "Democratic Republic of the Congo",
+      "region" : "AF",
+      "gain" : null,
+      "tci" : 4.428571429,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 1274
+    },
+    {
+      "country" : "Congo",
+      "region" : "AF",
+      "gain" : 0.480924637,
+      "tci" : 7.333333333,
+      "total" : 0.815468798,
+      "other" : null,
+      "rescaled" : 0.942248355,
+      "emissions" : 844
+    },
+    {
+      "country" : "Colombia",
+      "region" : "SA",
+      "gain" : 0.32740662,
+      "tci" : 3.555555556,
+      "total" : 0.467782093,
+      "other" : null,
+      "rescaled" : 0.244682744,
+      "emissions" : 22932
+    },
+    {
+      "country" : "Comoros",
+      "region" : null,
+      "gain" : 0.34418336,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 42
+    },
+    {
+      "country" : "Cape Verde",
+      "region" : "AF",
+      "gain" : 0.254344258,
+      "tci" : 5.571428571,
+      "total" : 0.534230831,
+      "other" : null,
+      "rescaled" : 0.377999184,
+      "emissions" : 134
+    },
+    {
+      "country" : "Costa Rica",
+      "region" : "NA",
+      "gain" : 0.356932447,
+      "tci" : 5.222222222,
+      "total" : 0.591819885,
+      "other" : null,
+      "rescaled" : 0.493540397,
+      "emissions" : 2116
+    },
+    {
+      "country" : "Cuba",
+      "region" : "NA",
+      "gain" : 0.414978104,
+      "tci" : 3.833333333,
+      "total" : 0.551960338,
+      "other" : null,
+      "rescaled" : 0.413569985,
+      "emissions" : 9500
+    },
+    {
+      "country" : "Cayman Islands",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 148
+    },
+    {
+      "country" : "Cyprus",
+      "region" : "EU",
+      "gain" : 0.17905863,
+      "tci" : 5.375,
+      "total" : 0.464439448,
+      "other" : null,
+      "rescaled" : 0.237976376,
+      "emissions" : 1653
+    },
+    {
+      "country" : "Czech Republic",
+      "region" : "EU",
+      "gain" : 0.176176018,
+      "tci" : 4.333333333,
+      "total" : 0.398879972,
+      "other" : null,
+      "rescaled" : 0.106444065,
+      "emissions" : 26309
+    },
+    {
+      "country" : "Germany",
+      "region" : "EU",
+      "gain" : 0.122076947,
+      "tci" : 5.666666667,
+      "total" : 0.438393536,
+      "other" : null,
+      "rescaled" : 0.18572033,
+      "emissions" : 196314
+    },
+    {
+      "country" : "Djibouti",
+      "region" : "AF",
+      "gain" : 0.409834175,
+      "tci" : 6.666666667,
+      "total" : 0.72030525,
+      "other" : null,
+      "rescaled" : 0.751321242,
+      "emissions" : 197
+    },
+    {
+      "country" : "Dominica",
+      "region" : "NA",
+      "gain" : 0.339816656,
+      "tci" : 4.285714286,
+      "total" : 0.521719003,
+      "other" : null,
+      "rescaled" : 0.35289664,
+      "emissions" : 37
+    },
+    {
+      "country" : "Denmark",
+      "region" : "EU",
+      "gain" : 0.144360567,
+      "tci" : 4.888888889,
+      "total" : 0.408218062,
+      "other" : null,
+      "rescaled" : 0.125179123,
+      "emissions" : 9135
+    },
+    {
+      "country" : "Dominican Republic",
+      "region" : "NA",
+      "gain" : 0.357757377,
+      "tci" : 5,
+      "total" : 0.578940214,
+      "other" : null,
+      "rescaled" : 0.467699848,
+      "emissions" : 5874
+    },
+    {
+      "country" : "Algeria",
+      "region" : "AF",
+      "gain" : 0.275107747,
+      "tci" : 4.375,
+      "total" : 0.477428856,
+      "other" : null,
+      "rescaled" : 0.264037093,
+      "emissions" : 39651
+    },
+    {
+      "country" : "Ecuador",
+      "region" : "SA",
+      "gain" : 0.331073449,
+      "tci" : 4.555555556,
+      "total" : 0.531410346,
+      "other" : null,
+      "rescaled" : 0.372340431,
+      "emissions" : 11977
+    },
+    {
+      "country" : "Egypt",
+      "region" : "ME",
+      "gain" : 0.24196345,
+      "tci" : 6.666666667,
+      "total" : 0.59132024,
+      "other" : null,
+      "rescaled" : 0.492537957,
+      "emissions" : 55057
+    },
+    {
+      "country" : "Eritrea",
+      "region" : "AF",
+      "gain" : 0.406727886,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 190
+    },
+    {
+      "country" : "Spain",
+      "region" : "EU",
+      "gain" : 0.1886829,
+      "tci" : 4.666666667,
+      "total" : 0.428760019,
+      "other" : null,
+      "rescaled" : 0.166392557,
+      "emissions" : 63806
+    },
+    {
+      "country" : "Estonia",
+      "region" : "EU",
+      "gain" : 0.31711812,
+      "tci" : 4.888888889,
+      "total" : 0.540957911,
+      "other" : null,
+      "rescaled" : 0.39149576,
+      "emissions" : 5323
+    },
+    {
+      "country" : "Ethiopia",
+      "region" : "AF",
+      "gain" : 0.481487801,
+      "tci" : 3.222222222,
+      "total" : 0.565901511,
+      "other" : null,
+      "rescaled" : 0.441540231,
+      "emissions" : 3163
+    },
+    {
+      "country" : "Finland",
+      "region" : "EU",
+      "gain" : 0.260660849,
+      "tci" : 4.222222222,
+      "total" : 0.457037909,
+      "other" : null,
+      "rescaled" : 0.223126632,
+      "emissions" : 12899
+    },
+    {
+      "country" : "Fiji",
+      "region" : "OC",
+      "gain" : 0.369828886,
+      "tci" : 6,
+      "total" : 0.649026279,
+      "other" : null,
+      "rescaled" : 0.608313878,
+      "emissions" : 319
+    },
+    {
+      "country" : "France",
+      "region" : "EU",
+      "gain" : 0.121620396,
+      "tci" : 4.777777778,
+      "total" : 0.383988686,
+      "other" : null,
+      "rescaled" : 0.076567604,
+      "emissions" : 82704
+    },
+    {
+      "country" : "Faroe Islands",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 163
+    },
+    {
+      "country" : "Micronesia, Federated States of",
+      "region" : null,
+      "gain" : 0.362072627,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 41
+    },
+    {
+      "country" : "Gabon",
+      "region" : null,
+      "gain" : 0.380674924,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 1416
+    },
+    {
+      "country" : "United Kingdom",
+      "region" : "EU",
+      "gain" : 0.191778307,
+      "tci" : 4.888888889,
+      "total" : 0.444651917,
+      "other" : null,
+      "rescaled" : 0.198276553,
+      "emissions" : 114486
+    },
+    {
+      "country" : "Georgia",
+      "region" : "AS",
+      "gain" : 0.264641221,
+      "tci" : 5.222222222,
+      "total" : 0.520907075,
+      "other" : null,
+      "rescaled" : 0.351267666,
+      "emissions" : 2451
+    },
+    {
+      "country" : "Ghana",
+      "region" : "AF",
+      "gain" : 0.420551693,
+      "tci" : 5.25,
+      "total" : 0.642391504,
+      "other" : null,
+      "rescaled" : 0.595002496,
+      "emissions" : 3945
+    },
+    {
+      "country" : "Guinea",
+      "region" : "AF",
+      "gain" : 0.516928691,
+      "tci" : 4.75,
+      "total" : 0.686038249,
+      "other" : null,
+      "rescaled" : 0.682571182,
+      "emissions" : 668
+    },
+    {
+      "country" : "Gambia",
+      "region" : "AF",
+      "gain" : 0.452344665,
+      "tci" : 7,
+      "total" : 0.773238845,
+      "other" : null,
+      "rescaled" : 0.857522183,
+      "emissions" : 140
+    },
+    {
+      "country" : "Guinea-Bissau",
+      "region" : "AF",
+      "gain" : 0.497839645,
+      "tci" : 6,
+      "total" : 0.747384519,
+      "other" : null,
+      "rescaled" : 0.805650517,
+      "emissions" : 74
+    },
+    {
+      "country" : "Equatorial Guinea",
+      "region" : "AF",
+      "gain" : 0.418687357,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 1458
+    },
+    {
+      "country" : "Greece",
+      "region" : "EU",
+      "gain" : 0.239211144,
+      "tci" : 5,
+      "total" : 0.487854129,
+      "other" : null,
+      "rescaled" : 0.284953371,
+      "emissions" : 18358
+    },
+    {
+      "country" : "Grenada",
+      "region" : "NA",
+      "gain" : 0.313959441,
+      "tci" : 5.166666667,
+      "total" : 0.555422803,
+      "other" : null,
+      "rescaled" : 0.420516747,
+      "emissions" : 66
+    },
+    {
+      "country" : "Guatemala",
+      "region" : "NA",
+      "gain" : 0.376126814,
+      "tci" : 4.888888889,
+      "total" : 0.586297782,
+      "other" : null,
+      "rescaled" : 0.482461375,
+      "emissions" : 4998
+    },
+    {
+      "country" : "Guyana",
+      "region" : "SA",
+      "gain" : 0.400471145,
+      "tci" : 5.285714286,
+      "total" : 0.629134246,
+      "other" : null,
+      "rescaled" : 0.568404391,
+      "emissions" : 548
+    },
+    {
+      "country" : "Hong Kong",
+      "region" : "AS",
+      "gain" : null,
+      "tci" : 5.666666667,
+      "total" : 0.689189189,
+      "other" : null,
+      "rescaled" : 0.68889293,
+      "emissions" : 12605
+    },
+    {
+      "country" : "Honduras",
+      "region" : "NA",
+      "gain" : 0.3707732,
+      "tci" : 5.333333333,
+      "total" : 0.609211311,
+      "other" : null,
+      "rescaled" : 0.528432904,
+      "emissions" : 2583
+    },
+    {
+      "country" : "Croatia",
+      "region" : "EU",
+      "gain" : 0.123609538,
+      "tci" : 4.777777778,
+      "total" : 0.385517062,
+      "other" : null,
+      "rescaled" : 0.079633991,
+      "emissions" : 4593
+    },
+    {
+      "country" : "Haiti",
+      "region" : "NA",
+      "gain" : 0.446490651,
+      "tci" : 4.375,
+      "total" : 0.609112481,
+      "other" : null,
+      "rescaled" : 0.528234622,
+      "emissions" : 780
+    },
+    {
+      "country" : "Hungary",
+      "region" : "EU",
+      "gain" : 0.162048669,
+      "tci" : 5.5,
+      "total" : 0.458971039,
+      "other" : null,
+      "rescaled" : 0.227005081,
+      "emissions" : 11477
+    },
+    {
+      "country" : "Indonesia",
+      "region" : "AS",
+      "gain" : 0.265492069,
+      "tci" : 2.888888889,
+      "total" : 0.37966894,
+      "other" : null,
+      "rescaled" : 0.067900875,
+      "emissions" : 126582
+    },
+    {
+      "country" : "India",
+      "region" : "AS",
+      "gain" : 0.442281765,
+      "tci" : 5.555555556,
+      "total" : 0.677669086,
+      "other" : null,
+      "rescaled" : 0.665780087,
+      "emissions" : 610411
+    },
+    {
+      "country" : "Ireland",
+      "region" : "EU",
+      "gain" : 0.16286584,
+      "tci" : 5.222222222,
+      "total" : 0.442707028,
+      "other" : null,
+      "rescaled" : 0.194374513,
+      "emissions" : 9290
+    },
+    {
+      "country" : "Iran (Islamic Republic of)",
+      "region" : "ME",
+      "gain" : 0.190261343,
+      "tci" : 5.857142857,
+      "total" : 0.502366653,
+      "other" : null,
+      "rescaled" : 0.314069922,
+      "emissions" : 177115
+    },
+    {
+      "country" : "Iraq",
+      "region" : "ME",
+      "gain" : 0.366541822,
+      "tci" : 5.75,
+      "total" : 0.63129793,
+      "other" : null,
+      "rescaled" : 0.572745402,
+      "emissions" : 45935
+    },
+    {
+      "country" : "Iceland",
+      "region" : "EU",
+      "gain" : 0.24853298,
+      "tci" : 4.666666667,
+      "total" : 0.474746377,
+      "other" : null,
+      "rescaled" : 0.258655221,
+      "emissions" : 541
+    },
+    {
+      "country" : "Israel",
+      "region" : "ME",
+      "gain" : 0.229067835,
+      "tci" : 6.625,
+      "total" : 0.578877992,
+      "other" : null,
+      "rescaled" : 0.467575012,
+      "emissions" : 17617
+    },
+    {
+      "country" : "Italy",
+      "region" : "EU",
+      "gain" : 0.169600842,
+      "tci" : 4.888888889,
+      "total" : 0.427611659,
+      "other" : null,
+      "rescaled" : 0.164088595,
+      "emissions" : 87377
+    },
+    {
+      "country" : "Jamaica",
+      "region" : "NA",
+      "gain" : 0.3462632,
+      "tci" : 5.75,
+      "total" : 0.615716665,
+      "other" : null,
+      "rescaled" : 0.541484631,
+      "emissions" : 2024
+    },
+    {
+      "country" : "Jordan",
+      "region" : "ME",
+      "gain" : 0.217821289,
+      "tci" : 8.222222222,
+      "total" : 0.667364984,
+      "other" : null,
+      "rescaled" : 0.645106915,
+      "emissions" : 7213
+    },
+    {
+      "country" : "Japan",
+      "region" : "AS",
+      "gain" : 0.324946673,
+      "tci" : 4.555555556,
+      "total" : 0.526702781,
+      "other" : null,
+      "rescaled" : 0.362895621,
+      "emissions" : 331074
+    },
+    {
+      "country" : "Kazakhstan",
+      "region" : "AS",
+      "gain" : 0.273686116,
+      "tci" : 4.333333333,
+      "total" : 0.473802749,
+      "other" : null,
+      "rescaled" : 0.256762016,
+      "emissions" : 67716
+    },
+    {
+      "country" : "Kenya",
+      "region" : "AF",
+      "gain" : 0.5006435,
+      "tci" : 6.333333333,
+      "total" : 0.769809157,
+      "other" : null,
+      "rescaled" : 0.850641183,
+      "emissions" : 3896
+    },
+    {
+      "country" : "Kyrgyzstan",
+      "region" : "AS",
+      "gain" : 0.263119971,
+      "tci" : 5.888888889,
+      "total" : 0.560278749,
+      "other" : null,
+      "rescaled" : 0.430259257,
+      "emissions" : 2620
+    },
+    {
+      "country" : "Cambodia",
+      "region" : "AS",
+      "gain" : 0.464780145,
+      "tci" : 4.666666667,
+      "total" : 0.640901868,
+      "other" : null,
+      "rescaled" : 0.592013831,
+      "emissions" : 1823
+    },
+    {
+      "country" : "Kiribati",
+      "region" : null,
+      "gain" : 0.439377616,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 17
+    },
+    {
+      "country" : "Saint Kitts and Nevis",
+      "region" : "NA",
+      "gain" : 0.324943392,
+      "tci" : 4.285714286,
+      "total" : 0.510290994,
+      "other" : null,
+      "rescaled" : 0.329968568,
+      "emissions" : 63
+    },
+    {
+      "country" : "Korea, Republic of",
+      "region" : "AS",
+      "gain" : 0.391630579,
+      "tci" : 5.444444444,
+      "total" : 0.631994026,
+      "other" : null,
+      "rescaled" : 0.574141982,
+      "emissions" : 160119
+    },
+    {
+      "country" : "Kuwait",
+      "region" : "ME",
+      "gain" : 0.275396841,
+      "tci" : 7.571428571,
+      "total" : 0.672028397,
+      "other" : null,
+      "rescaled" : 0.654463146,
+      "emissions" : 26018
+    },
+    {
+      "country" : "Lao People's Democratic Republic",
+      "region" : "AS",
+      "gain" : 0.473221722,
+      "tci" : 3.142857143,
+      "total" : 0.554723938,
+      "other" : null,
+      "rescaled" : 0.419114611,
+      "emissions" : 533
+    },
+    {
+      "country" : "Lebanon",
+      "region" : "ME",
+      "gain" : 0.277438465,
+      "tci" : 7.714285714,
+      "total" : 0.682284356,
+      "other" : null,
+      "rescaled" : 0.675039729,
+      "emissions" : 6564
+    },
+    {
+      "country" : "Liberia",
+      "region" : "AF",
+      "gain" : 0.548095403,
+      "tci" : 6.888888889,
+      "total" : 0.840053045,
+      "other" : null,
+      "rescaled" : 0.991571854,
+      "emissions" : 255
+    },
+    {
+      "country" : "Libyan Arab Jamahiriya",
+      "region" : "AF",
+      "gain" : 0.275077465,
+      "tci" : 4.833333333,
+      "total" : 0.50527721,
+      "other" : null,
+      "rescaled" : 0.319909388,
+      "emissions" : 15543
+    },
+    {
+      "country" : "Saint Lucia",
+      "region" : "NA",
+      "gain" : 0.27524672,
+      "tci" : 4.571428571,
+      "total" : 0.489480618,
+      "other" : null,
+      "rescaled" : 0.288216604,
+      "emissions" : 111
+    },
+    {
+      "country" : "Liechtenstein",
+      "region" : "EU",
+      "gain" : 0.198451449,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 12
+    },
+    {
+      "country" : "Sri Lanka",
+      "region" : "AS",
+      "gain" : 0.231211792,
+      "tci" : 5.333333333,
+      "total" : 0.501978024,
+      "other" : null,
+      "rescaled" : 0.313290213,
+      "emissions" : 5016
+    },
+    {
+      "country" : "Lesotho",
+      "region" : "AF",
+      "gain" : 0.412956007,
+      "tci" : 6,
+      "total" : 0.682163398,
+      "other" : null,
+      "rescaled" : 0.674797049,
+      "emissions" : 673
+    },
+    {
+      "country" : "Lithuania",
+      "region" : "EU",
+      "gain" : 0.218330278,
+      "tci" : 5.75,
+      "total" : 0.517418232,
+      "other" : null,
+      "rescaled" : 0.344267982,
+      "emissions" : 3501
+    },
+    {
+      "country" : "Luxembourg",
+      "region" : "EU",
+      "gain" : 0.103636465,
+      "tci" : 6.777777778,
+      "total" : 0.49179219,
+      "other" : null,
+      "rescaled" : 0.292854323,
+      "emissions" : 2634
+    },
+    {
+      "country" : "Latvia",
+      "region" : "EU",
+      "gain" : 0.243569421,
+      "tci" : 5.75,
+      "total" : 0.536810959,
+      "other" : null,
+      "rescaled" : 0.383175709,
+      "emissions" : 1902
+    },
+    {
+      "country" : "Macau",
+      "region" : "AS",
+      "gain" : null,
+      "tci" : 5.5,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 350
+    },
+    {
+      "country" : "Morocco",
+      "region" : "AF",
+      "gain" : 0.304584354,
+      "tci" : 4.875,
+      "total" : 0.530482883,
+      "other" : null,
+      "rescaled" : 0.370479657,
+      "emissions" : 16325
+    },
+    {
+      "country" : "Monaco",
+      "region" : "EU",
+      "gain" : 0.222743491,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : null
+    },
+    {
+      "country" : "Republic of Moldova",
+      "region" : "EU",
+      "gain" : 0.215879026,
+      "tci" : 5.555555556,
+      "total" : 0.503710466,
+      "other" : null,
+      "rescaled" : 0.316766021,
+      "emissions" : 1345
+    },
+    {
+      "country" : "Madagascar",
+      "region" : "AF",
+      "gain" : 0.447170955,
+      "tci" : 2.428571429,
+      "total" : 0.491271299,
+      "other" : null,
+      "rescaled" : 0.291809257,
+      "emissions" : 839
+    },
+    {
+      "country" : "Maldives",
+      "region" : "AS",
+      "gain" : 0.337177255,
+      "tci" : 6.142857143,
+      "total" : 0.632625358,
+      "other" : null,
+      "rescaled" : 0.575408626,
+      "emissions" : 364
+    },
+    {
+      "country" : "Mexico",
+      "region" : "NA",
+      "gain" : 0.284456302,
+      "tci" : 4.333333333,
+      "total" : 0.48207812,
+      "other" : null,
+      "rescaled" : 0.273364935,
+      "emissions" : 130971
+    },
+    {
+      "country" : "Marshall Islands",
+      "region" : null,
+      "gain" : 0.442730594,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 28
+    },
+    {
+      "country" : "The former Yugoslav Republic of Macedonia",
+      "region" : "EU",
+      "gain" : 0.188624634,
+      "tci" : 5.428571429,
+      "total" : 0.475047296,
+      "other" : null,
+      "rescaled" : 0.259258958,
+      "emissions" : 2048
+    },
+    {
+      "country" : "Mali",
+      "region" : "AF",
+      "gain" : 0.443240711,
+      "tci" : 5.125,
+      "total" : 0.652223468,
+      "other" : null,
+      "rescaled" : 0.614728415,
+      "emissions" : 385
+    },
+    {
+      "country" : "Malta",
+      "region" : "EU",
+      "gain" : 0.242642876,
+      "tci" : 6,
+      "total" : 0.551301742,
+      "other" : null,
+      "rescaled" : 0.412248642,
+      "emissions" : 640
+    },
+    {
+      "country" : "Burma",
+      "region" : null,
+      "gain" : 0.441309659,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 5899
+    },
+    {
+      "country" : "Montenegro",
+      "region" : null,
+      "gain" : null,
+      "tci" : 6.714285714,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 603
+    },
+    {
+      "country" : "Mongolia",
+      "region" : "AS",
+      "gain" : 0.445726606,
+      "tci" : 4.333333333,
+      "total" : 0.605991636,
+      "other" : null,
+      "rescaled" : 0.521973255,
+      "emissions" : 5683
+    },
+    {
+      "country" : "Mozambique",
+      "region" : "AF",
+      "gain" : 0.483325043,
+      "tci" : 5.714285714,
+      "total" : 0.718857574,
+      "other" : null,
+      "rescaled" : 0.748416762,
+      "emissions" : 2298
+    },
+    {
+      "country" : "Mauritania",
+      "region" : "AF",
+      "gain" : 0.415408798,
+      "tci" : 7.857142857,
+      "total" : 0.796982385,
+      "other" : null,
+      "rescaled" : 0.905158969,
+      "emissions" : 739
+    },
+    {
+      "country" : "Montserrat",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 13
+    },
+    {
+      "country" : "Mauritius",
+      "region" : "AF",
+      "gain" : 0.286170922,
+      "tci" : 6.125,
+      "total" : 0.592348267,
+      "other" : null,
+      "rescaled" : 0.494600493,
+      "emissions" : 1153
+    },
+    {
+      "country" : "Malawi",
+      "region" : "AF",
+      "gain" : 0.456590476,
+      "tci" : 4,
+      "total" : 0.59406872,
+      "other" : null,
+      "rescaled" : 0.498052248,
+      "emissions" : 348
+    },
+    {
+      "country" : "Malaysia",
+      "region" : "AS",
+      "gain" : 0.328089847,
+      "tci" : 6.555555556,
+      "total" : 0.65073949,
+      "other" : null,
+      "rescaled" : 0.611751101,
+      "emissions" : 66218
+    },
+    {
+      "country" : "Namibia",
+      "region" : "AF",
+      "gain" : 0.413542627,
+      "tci" : 5.875,
+      "total" : 0.675012781,
+      "other" : null,
+      "rescaled" : 0.66045073,
+      "emissions" : 1024
+    },
+    {
+      "country" : "New Caledonia",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 1170
+    },
+    {
+      "country" : "Niger",
+      "region" : "AF",
+      "gain" : 0.427301649,
+      "tci" : 5.857142857,
+      "total" : 0.684498744,
+      "other" : null,
+      "rescaled" : 0.679482467,
+      "emissions" : 580
+    },
+    {
+      "country" : "Nigeria",
+      "region" : "AF",
+      "gain" : 0.446231414,
+      "tci" : 4.444444444,
+      "total" : 0.613136267,
+      "other" : null,
+      "rescaled" : 0.536307564,
+      "emissions" : 26256
+    },
+    {
+      "country" : "Nicaragua",
+      "region" : "NA",
+      "gain" : 0.312194312,
+      "tci" : 5.555555556,
+      "total" : 0.577715199,
+      "other" : null,
+      "rescaled" : 0.465242094,
+      "emissions" : 1326
+    },
+    {
+      "country" : "Netherlands",
+      "region" : "EU",
+      "gain" : 0.141139332,
+      "tci" : 6.888888889,
+      "total" : 0.527364618,
+      "other" : null,
+      "rescaled" : 0.364223467,
+      "emissions" : 45624
+    },
+    {
+      "country" : "Norway",
+      "region" : "EU",
+      "gain" : 0.210741145,
+      "tci" : 4.777777778,
+      "total" : 0.452465431,
+      "other" : null,
+      "rescaled" : 0.213952845,
+      "emissions" : 12988
+    },
+    {
+      "country" : "Nepal",
+      "region" : "AS",
+      "gain" : 0.400446221,
+      "tci" : 4.888888889,
+      "total" : 0.604983821,
+      "other" : null,
+      "rescaled" : 0.519951271,
+      "emissions" : 2190
+    },
+    {
+      "country" : "New Zealand",
+      "region" : "OC",
+      "gain" : 0.328663837,
+      "tci" : 5.125,
+      "total" : 0.564187277,
+      "other" : null,
+      "rescaled" : 0.438100955,
+      "emissions" : 9453
+    },
+    {
+      "country" : "Oman",
+      "region" : "ME",
+      "gain" : 0.228240475,
+      "tci" : 6,
+      "total" : 0.540235526,
+      "other" : null,
+      "rescaled" : 0.390046435,
+      "emissions" : 16681
+    },
+    {
+      "country" : "Pakistan",
+      "region" : "AS",
+      "gain" : 0.409381481,
+      "tci" : 5.25,
+      "total" : 0.63380877,
+      "other" : null,
+      "rescaled" : 0.577782912,
+      "emissions" : 45350
+    },
+    {
+      "country" : "Panama",
+      "region" : "NA",
+      "gain" : 0.33736914,
+      "tci" : 5.777777778,
+      "total" : 0.610572022,
+      "other" : null,
+      "rescaled" : 0.531162906,
+      "emissions" : 2400
+    },
+    {
+      "country" : "Peru",
+      "region" : "SA",
+      "gain" : 0.356782135,
+      "tci" : 3.888888889,
+      "total" : 0.51062331,
+      "other" : null,
+      "rescaled" : 0.330635295,
+      "emissions" : 16838
+    },
+    {
+      "country" : "Philippines",
+      "region" : null,
+      "gain" : 0.341971862,
+      "tci" : 4.333333333,
+      "total" : 0.526270728,
+      "other" : null,
+      "rescaled" : 0.36202879,
+      "emissions" : 28812
+    },
+    {
+      "country" : "Palau",
+      "region" : null,
+      "gain" : 0.34991552,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 71
+    },
+    {
+      "country" : "Papua New Guinea",
+      "region" : null,
+      "gain" : 0.467241121,
+      "tci" : 4.666666667,
+      "total" : 0.642792781,
+      "other" : null,
+      "rescaled" : 0.59580758,
+      "emissions" : 1723
+    },
+    {
+      "country" : "Poland",
+      "region" : null,
+      "gain" : 0.11592032,
+      "tci" : 4.222222222,
+      "total" : 0.345825197,
+      "other" : null,
+      "rescaled" : 0,
+      "emissions" : 77922
+    },
+    {
+      "country" : "Puerto Rico",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : null
+    },
+    {
+      "country" : "Korea, Democratic People's Republic of",
+      "region" : null,
+      "gain" : 0.407729513,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 11052
+    },
+    {
+      "country" : "Portugal",
+      "region" : "EU",
+      "gain" : 0.230433891,
+      "tci" : 5.888888889,
+      "total" : 0.5351641,
+      "other" : null,
+      "rescaled" : 0.379871608,
+      "emissions" : 12286
+    },
+    {
+      "country" : "Paraguay",
+      "region" : "SA",
+      "gain" : 0.379139517,
+      "tci" : 4.555555556,
+      "total" : 0.56834235,
+      "other" : null,
+      "rescaled" : 0.446437299,
+      "emissions" : 1555
+    },
+    {
+      "country" : "Palestine",
+      "region" : "ME",
+      "gain" : null,
+      "tci" : 4.333333333,
+      "total" : 0.527027027,
+      "other" : null,
+      "rescaled" : 0.363546156,
+      "emissions" : 774
+    },
+    {
+      "country" : "French Polynesia",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 219
+    },
+    {
+      "country" : "Qatar",
+      "region" : null,
+      "gain" : 0.264280468,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 29412
+    },
+    {
+      "country" : "Romania",
+      "region" : "EU",
+      "gain" : 0.128902594,
+      "tci" : 4.888888889,
+      "total" : 0.396340787,
+      "other" : null,
+      "rescaled" : 0.101349686,
+      "emissions" : 19090
+    },
+    {
+      "country" : "Russia",
+      "region" : "AS",
+      "gain" : 0.410423687,
+      "tci" : 3.444444444,
+      "total" : 0.524812261,
+      "other" : null,
+      "rescaled" : 0.35910266,
+      "emissions" : 465052
+    },
+    {
+      "country" : "Rwanda",
+      "region" : "AF",
+      "gain" : 0.503902427,
+      "tci" : 4.333333333,
+      "total" : 0.650691562,
+      "other" : null,
+      "rescaled" : 0.611654943,
+      "emissions" : 229
+    },
+    {
+      "country" : "Saudi Arabia",
+      "region" : "ME",
+      "gain" : 0.213558579,
+      "tci" : 6,
+      "total" : 0.528954556,
+      "other" : null,
+      "rescaled" : 0.367413368,
+      "emissions" : 163907
+    },
+    {
+      "country" : "Sudan",
+      "region" : "AF",
+      "gain" : 0.540467277,
+      "tci" : 6.571428571,
+      "total" : 0.814886885,
+      "other" : null,
+      "rescaled" : 0.941080859,
+      "emissions" : 4190
+    },
+    {
+      "country" : "Senegal",
+      "region" : "AF",
+      "gain" : 0.465045345,
+      "tci" : 5.75,
+      "total" : 0.706984015,
+      "other" : null,
+      "rescaled" : 0.72459478,
+      "emissions" : 2415
+    },
+    {
+      "country" : "Singapore",
+      "region" : "AS",
+      "gain" : 0.353690908,
+      "tci" : 6,
+      "total" : 0.636626516,
+      "other" : null,
+      "rescaled" : 0.58343617,
+      "emissions" : 15373
+    },
+    {
+      "country" : "Solomon Islands",
+      "region" : null,
+      "gain" : 0.494050137,
+      "tci" : 5.428571429,
+      "total" : 0.709723781,
+      "other" : null,
+      "rescaled" : 0.730091586,
+      "emissions" : 55
+    },
+    {
+      "country" : "Sierra Leone",
+      "region" : "AF",
+      "gain" : 0.517939928,
+      "tci" : 5.142857143,
+      "total" : 0.710705203,
+      "other" : null,
+      "rescaled" : 0.732060619,
+      "emissions" : 357
+    },
+    {
+      "country" : "El Salvador",
+      "region" : "NA",
+      "gain" : 0.319541795,
+      "tci" : 6,
+      "total" : 0.610387732,
+      "other" : null,
+      "rescaled" : 0.530793164,
+      "emissions" : 1714
+    },
+    {
+      "country" : "San Marino",
+      "region" : null,
+      "gain" : 0.074063051,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : null
+    },
+    {
+      "country" : "Somalia",
+      "region" : null,
+      "gain" : 0.413786014,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 166
+    },
+    {
+      "country" : "Serbia",
+      "region" : null,
+      "gain" : null,
+      "tci" : 5.166666667,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 10272
+    },
+    {
+      "country" : "Sao Tome and Principe",
+      "region" : null,
+      "gain" : 0.411064286,
+      "tci" : 4.166666667,
+      "total" : 0.56922339,
+      "other" : null,
+      "rescaled" : 0.448204935,
+      "emissions" : 31
+    },
+    {
+      "country" : "Suriname",
+      "region" : null,
+      "gain" : 0.33209478,
+      "tci" : 3.5,
+      "total" : 0.468005906,
+      "other" : null,
+      "rescaled" : 0.245131779,
+      "emissions" : 543
+    },
+    {
+      "country" : "Slovakia",
+      "region" : "EU",
+      "gain" : 0.175818779,
+      "tci" : 4.555555556,
+      "total" : 0.412118997,
+      "other" : null,
+      "rescaled" : 0.13300559,
+      "emissions" : 8366
+    },
+    {
+      "country" : "Slovenia",
+      "region" : "EU",
+      "gain" : 0.129473662,
+      "tci" : 5.625,
+      "total" : 0.441543086,
+      "other" : null,
+      "rescaled" : 0.192039288,
+      "emissions" : 3494
+    },
+    {
+      "country" : "Sweden",
+      "region" : "EU",
+      "gain" : 0.238764172,
+      "tci" : 5.5,
+      "total" : 0.517916099,
+      "other" : null,
+      "rescaled" : 0.345266856,
+      "emissions" : 11841
+    },
+    {
+      "country" : "Swaziland",
+      "region" : "AF",
+      "gain" : 0.366837509,
+      "tci" : 6.444444444,
+      "total" : 0.673754854,
+      "other" : null,
+      "rescaled" : 0.657926945,
+      "emissions" : 328
+    },
+    {
+      "country" : "Seychelles",
+      "region" : null,
+      "gain" : 0.333447355,
+      "tci" : 5.666666667,
+      "total" : 0.600801926,
+      "other" : null,
+      "rescaled" : 0.511561113,
+      "emissions" : 135
+    },
+    {
+      "country" : "Syrian Arab Republic",
+      "region" : "ME",
+      "gain" : 0.248421496,
+      "tci" : 6.142857143,
+      "total" : 0.564429057,
+      "other" : null,
+      "rescaled" : 0.43858604,
+      "emissions" : 8373
+    },
+    {
+      "country" : "Chad",
+      "region" : "AF",
+      "gain" : 0.50549817,
+      "tci" : 5.666666667,
+      "total" : 0.732998746,
+      "other" : null,
+      "rescaled" : 0.776788268,
+      "emissions" : 199
+    },
+    {
+      "country" : "Togo",
+      "region" : "AF",
+      "gain" : 0.59423376,
+      "tci" : 6.375,
+      "total" : 0.844253875,
+      "other" : null,
+      "rescaled" : 1,
+      "emissions" : 715
+    },
+    {
+      "country" : "Thailand",
+      "region" : "AS",
+      "gain" : 0.291558704,
+      "tci" : 5.888888889,
+      "total" : 0.58212991,
+      "other" : null,
+      "rescaled" : 0.474099353,
+      "emissions" : 86232
+    },
+    {
+      "country" : "Tajikistan",
+      "region" : "AS",
+      "gain" : 0.244156167,
+      "tci" : 6.333333333,
+      "total" : 0.572734764,
+      "other" : null,
+      "rescaled" : 0.455249822,
+      "emissions" : 1415
+    },
+    {
+      "country" : "Turkmenistan",
+      "region" : null,
+      "gain" : 0.169274085,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 18659
+    },
+    {
+      "country" : "Timor-Leste",
+      "region" : null,
+      "gain" : null,
+      "tci" : 3.333333333,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 128
+    },
+    {
+      "country" : "Tonga",
+      "region" : "OC",
+      "gain" : 0.413859367,
+      "tci" : 3.857142857,
+      "total" : 0.552548622,
+      "other" : null,
+      "rescaled" : 0.414750263,
+      "emissions" : 33
+    },
+    {
+      "country" : "Trinidad and Tobago",
+      "region" : "AF",
+      "gain" : 0.299555183,
+      "tci" : 4,
+      "total" : 0.473409214,
+      "other" : null,
+      "rescaled" : 0.255972464,
+      "emissions" : 12619
+    },
+    {
+      "country" : "Tunisia",
+      "region" : "AF",
+      "gain" : 0.271278413,
+      "tci" : 5.555555556,
+      "total" : 0.546277093,
+      "other" : null,
+      "rescaled" : 0.402167662,
+      "emissions" : 7862
+    },
+    {
+      "country" : "Turkey",
+      "region" : "EU",
+      "gain" : 0.235804737,
+      "tci" : 4.333333333,
+      "total" : 0.444696244,
+      "other" : null,
+      "rescaled" : 0.198365487,
+      "emissions" : 94350
+    },
+    {
+      "country" : "Taiwan",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : 72013
+    },
+    {
+      "country" : "United Republic of Tanzania",
+      "region" : "AF",
+      "gain" : 0.43151432,
+      "tci" : 4.666666667,
+      "total" : 0.615341766,
+      "other" : null,
+      "rescaled" : 0.540732469,
+      "emissions" : 3153
+    },
+    {
+      "country" : "Uganda",
+      "region" : "AF",
+      "gain" : 0.511377087,
+      "tci" : 5.555555556,
+      "total" : 0.730759109,
+      "other" : null,
+      "rescaled" : 0.772294873,
+      "emissions" : 1426
+    },
+    {
+      "country" : "Ukraine",
+      "region" : "EU",
+      "gain" : 0.237804183,
+      "tci" : 4.777777778,
+      "total" : 0.473259564,
+      "other" : null,
+      "rescaled" : 0.255672221,
+      "emissions" : 61985
+    },
+    {
+      "country" : "Uruguay",
+      "region" : "SA",
+      "gain" : 0.287241889,
+      "tci" : 3.777777778,
+      "total" : 0.450434668,
+      "other" : null,
+      "rescaled" : 0.209878515,
+      "emissions" : 1840
+    },
+    {
+      "country" : "United States",
+      "region" : "NA",
+      "gain" : 0.223651005,
+      "tci" : 4.111111111,
+      "total" : 0.421844299,
+      "other" : null,
+      "rescaled" : 0.152517513,
+      "emissions" : 1432855
+    },
+    {
+      "country" : "Uzbekistan",
+      "region" : "AS",
+      "gain" : 0.221690945,
+      "tci" : 4.833333333,
+      "total" : 0.464257188,
+      "other" : null,
+      "rescaled" : 0.237610709,
+      "emissions" : 28692
+    },
+    {
+      "country" : "Saint Vincent and the Grenadines",
+      "region" : "NA",
+      "gain" : 0.310490442,
+      "tci" : 4.571428571,
+      "total" : 0.516560455,
+      "other" : null,
+      "rescaled" : 0.342547019,
+      "emissions" : 57
+    },
+    {
+      "country" : "Venezuela",
+      "region" : "SA",
+      "gain" : 0.28291255,
+      "tci" : 4.333333333,
+      "total" : 0.480891964,
+      "other" : null,
+      "rescaled" : 0.270985144,
+      "emissions" : 50510
+    },
+    {
+      "country" : "Viet Nam",
+      "region" : "AS",
+      "gain" : 0.342684013,
+      "tci" : 5,
+      "total" : 0.567358456,
+      "other" : null,
+      "rescaled" : 0.444463309,
+      "emissions" : 45517
+    },
+    {
+      "country" : "Vanuatu",
+      "region" : "OC",
+      "gain" : 0.405946537,
+      "tci" : 5.375,
+      "total" : 0.63877085,
+      "other" : null,
+      "rescaled" : 0.58773836,
+      "emissions" : 42
+    },
+    {
+      "country" : "Wallis and Futuna Islands",
+      "region" : null,
+      "gain" : null,
+      "tci" : null,
+      "total" : null,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : null
+    },
+    {
+      "country" : "Yemen",
+      "region" : "ME",
+      "gain" : 0.378387081,
+      "tci" : 5.666666667,
+      "total" : 0.635331776,
+      "other" : null,
+      "rescaled" : 0.580838528,
+      "emissions" : 6190
+    },
+    {
+      "country" : "South Africa",
+      "region" : "AF",
+      "gain" : 0.37883892,
+      "tci" : 5.444444444,
+      "total" : 0.622165437,
+      "other" : null,
+      "rescaled" : 0.554422835,
+      "emissions" : 133562
+    },
+    {
+      "country" : "Zambia",
+      "region" : "AF",
+      "gain" : 0.500493234,
+      "tci" : 3.875,
+      "total" : 0.620200455,
+      "other" : null,
+      "rescaled" : 0.550480481,
+      "emissions" : 1228
+    },
+    {
+      "country" : "Zimbabwe",
+      "region" : "AF",
+      "gain" : 0.46104156,
+      "tci" : 5.5,
+      "total" : 0.688704968,
+      "other" : null,
+      "rescaled" : 0.687921434,
+      "emissions" : 3278
+    },
+    {
+      "country" : null,
+      "region" : null,
+      "gain" : null,
+      "tci" : 172,
+      "total" : 172,
+      "other" : null,
+      "rescaled" : null,
+      "emissions" : null
+    }
+  ]
+}

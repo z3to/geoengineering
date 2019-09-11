@@ -1,0 +1,221 @@
+path.line {
+  stroke: #000;
+  stroke-width: 2px;
+  fill: none;
+}
+
+path.area {
+  fill: palette(grey, 70);
+  opacity: 0.2;
+}
+
+path {
+  &.negative {
+    fill: $color-green;
+    opacity: 0.3;
+  }
+
+  &.positive {
+    fill: $color-red;
+    opacity: 0.3;
+  }
+}
+
+rect {
+  &.clip {
+    transition-duration: 0.3s;
+  }
+}
+
+.graphic-element {
+  opacity: 1;
+}
+
+line {
+  &.zero {
+    stroke: palette(grey, 20);
+    stroke-width: 1px;
+  }
+
+  &.axis {
+    stroke: palette(grey, 70);
+    stroke-width: 1px;
+  }
+
+  &.tick {
+    stroke: palette(grey, 70);
+    stroke-width: 1px;
+  }
+
+  &.mean {
+    stroke: palette(grey, 0);
+    stroke-width: 1px;
+  }
+
+  &.horizontalLine {
+    stroke: $color-red;
+    stroke-width: 1px;
+  }
+
+  &.verticalLine {
+    stroke: palette(grey, 70);
+    stroke-width: 1px;
+  }
+
+  &.legend {
+    stroke: palette(grey, 20);
+    stroke-width: 2px;
+  }
+}
+
+line, path {
+  transition-duration: 0.3s;
+
+  &.NDC {
+    stroke: #b7005e;
+  }
+
+  &.goodpractice {
+    stroke: #d4584e;
+  }
+
+  &.netzero {
+    stroke: #e67c3e;
+  }
+
+  &.eff {
+    stroke: #feae00;
+  }
+
+  &.historic {
+    stroke: $color-dark-gray;
+  }
+
+  &.hasHighlight {
+    opacity: 0.2;
+  }
+}
+
+g {
+  transition-duration: 0.3s;
+
+  &.isNotVisible {
+    opacity: 0;
+  }
+
+  &.isVisible {
+    opacity: 1;
+  }
+
+  &.horizontalLine {
+    opacity: 0;
+
+    &.isVisible {
+      opacity: 1;
+    }
+  }
+}
+
+text {
+  &.tick, tspan.tick {
+    fill: palette(grey, 50);
+    font-weight: $font-weight-bold;
+    font-size: $size-small;
+  }
+
+  tspan.info {
+    fill: palette(grey, 60);
+    font-size: $size-smaller;
+  }
+
+  &.area tspan {
+    fill: palette(grey, 30);
+    font-size: $size-default;
+    font-weight: $font-weight-bold;
+  }
+
+  &.area {
+    fill: palette(accent, 0);
+  }
+
+  &.marker {
+    fill: palette(grey, 40);
+    // font-weight: $font-weight-bold;
+    font-size: $size-default;
+
+    &.positive {
+      fill: $color-red;
+    }
+
+    &.negative {
+      fill: $color-green;
+    }
+
+    .super {
+      font-size: $size-smaller;
+    }
+  }
+
+  &.axis {
+    fill: palette(grey, 20);
+    font-weight: $font-weight-bold;
+    font-size: $size-small;
+  }
+
+  &.dot {
+    fill: palette(grey, 0);
+    // font-weight: $font-weight-bold;
+    letter-spacing: $spacing-wide;
+    font-size: $size-default;
+  }
+}
+
+circle {
+  transition-duration: 0.3s;
+
+  &.marker {
+    stroke: $color-red;
+    fill: none;
+    stroke-width: 2px;
+  }
+
+  &.dot {
+    // stroke: darken($color-red, 10);
+    fill: #5582b0;
+    opacity: 0.7;
+  }
+
+  &.active {
+    opacity: 1;
+    stroke-width: 2px;
+    stroke: #4a566c;
+  }
+}
+
+rect {
+  &.short {
+    opacity: 1;
+  }
+
+  &.long {
+    opacity: 0.5;
+  }
+}
+
+g {
+  &.NDC rect {
+    fill: #b7005e;
+  }
+
+  &.goodpractice rect {
+    fill: #d4584e;
+  }
+
+  &.netzero rect {
+    fill: #e67c3e;
+  }
+
+  &.eff rect {
+    fill: #feae00;
+  }
+}
