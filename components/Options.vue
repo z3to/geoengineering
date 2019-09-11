@@ -5,7 +5,7 @@
       <span class="clickable btn" @click="updateTerm('sea, earth')">Sea, Earth</span>
       <span class="clickable btn" @click="updateTerm('funding')">Funding</span>
       <span class="clickable btn" @click="updateTerm('russia, usa, europe')">Russia, USA, Europe</span>
-      <span class="clickable btn" @click="updateTerm('model+models')">Models + model</span>
+      <span class="clickable btn" @click="updateTerm('technologies+technology, models+model')">Technologies + Technolgy, Models + model</span>
     </div>
     <input type="text" v-model="input" />
     <ul>
@@ -19,6 +19,7 @@
 
 <script>
   import { mapState } from 'vuex'
+  import { debounce } from 'lodash'
 
   export default {
     computed: {
@@ -29,9 +30,9 @@
         get () {
           return this.$store.state.input
         },
-        set (input) {
+        set: debounce(function (input) {
           this.$store.commit('SET_TERMS', input)
-        }
+        }, 300)
       }
     },
     methods: {

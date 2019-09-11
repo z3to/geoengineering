@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import VTooltip from 'v-tooltip'
 import data from './modules/data'
-import { isUndefined, words, map, slice, get, forEach, fromPairs, sum, lowerCase } from 'lodash'
+import { isUndefined, words, map, slice, get, forEach, fromPairs, sum } from 'lodash'
 import { schemeCategory10 } from 'd3-scale-chromatic'
 import { timeParse } from 'd3-time-format'
 
@@ -54,7 +54,9 @@ export const mutations = {
   SET_TERMS (state, input) {
     state.input = input
     if (!isUndefined(input)) {
-      const terms = map(slice(words(input, /[^, ]+/g), 0, 11), lowerCase)
+      const terms = map(slice(words(input, /[^, ]+/g), 0, 11), term => {
+        return term.toLowerCase()
+      })
       state.terms = map(terms, (term, i) => {
         return {
           term,
