@@ -98,7 +98,6 @@
   .vis-container {
     width: 90vw;
     height: 90vw;
-    max-width: 900px;
     max-height: 900px;
   }
 
