@@ -1,5 +1,12 @@
 <template>
   <footer class="vis-footer">
+    <div>
+      <span class="clickable btn" @click="updateTerm('cdr, srm')">CDR, SRM</span>
+      <span class="clickable btn" @click="updateTerm('sea, earth')">Sea, Earth</span>
+      <span class="clickable btn" @click="updateTerm('funding')">Funding</span>
+      <span class="clickable btn" @click="updateTerm('model')">Model</span>
+      <span class="clickable btn" @click="updateTerm('russia, usa, europe')">Russia, USA, Europe</span>
+    </div>
     <input type="text" v-model="input" />
     <ul>
       <li
@@ -25,6 +32,11 @@
         set (input) {
           this.$store.commit('SET_TERMS', input)
         }
+      }
+    },
+    methods: {
+      updateTerm (input) {
+        this.$store.commit('SET_TERMS', input)
       }
     }
   }
@@ -63,6 +75,16 @@
 
       &:last-child {
         margin-right: 0;
+      }
+    }
+
+    .btn {
+      padding: $spacing / 6 $spacing / 4;
+      border: 1px solid #eee;
+      border-radius: 4px;
+
+      &:hover {
+        background-color: #eee;
       }
     }
   }
