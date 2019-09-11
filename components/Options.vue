@@ -4,8 +4,8 @@
       <span class="clickable btn" @click="updateTerm('cdr, srm')">CDR, SRM</span>
       <span class="clickable btn" @click="updateTerm('sea, earth')">Sea, Earth</span>
       <span class="clickable btn" @click="updateTerm('funding')">Funding</span>
-      <span class="clickable btn" @click="updateTerm('model')">Model</span>
       <span class="clickable btn" @click="updateTerm('russia, usa, europe')">Russia, USA, Europe</span>
+      <span class="clickable btn" @click="updateTerm('model+models')">Models + model</span>
     </div>
     <input type="text" v-model="input" />
     <ul>
