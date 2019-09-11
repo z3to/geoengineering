@@ -8,7 +8,7 @@
       :margin="margin" />
     <path
       v-for="line in lines"
-      :style="{ stroke: line.color }"
+      :style="{ stroke: line.color, fill: line.color }"
       :d="line.d" />
   </g>
 </template>
@@ -17,7 +17,7 @@
   import { mapState, mapGetters } from 'vuex'
   import VisAxis from '~/components/VisAxis.vue'
   import { map } from 'lodash'
-  import { line } from 'd3-shape'
+  import { line, curveCardinal } from 'd3-shape'
 
   export default {
     props: ['scaleX', 'scaleY', 'width', 'height', 'margin'],
@@ -32,6 +32,7 @@
         const { scaleX, scaleY } = this
 
         var pathFunction = line()
+          .curve(curveCardinal)
           .x(d => { return scaleX(d[0]) })
           .y(d => { return scaleY(d[1]) })
 
@@ -54,6 +55,8 @@
 
   path {
     fill: none;
+    stroke-width: 2px;
+    fill-opacity: 0.05;
   }
 
 </style>
