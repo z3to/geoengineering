@@ -8,6 +8,7 @@
         <li class="clickable btn" @click="updateTerm('funding')">Funding</li>
         <li class="clickable btn" @click="updateTerm('russia, usa, europe')">Russia, USA, Europe</li>
         <li class="clickable btn" @click="updateTerm('technologies+technology, models+model')">Technologies + Technolgy, Models + model</li>
+        <li class="clickable btn" @click="updateTerm('technology+technolgies, nature+earth+planet+sea')">technology + technolgies, nature + earth + planet + sea</li>
       </ul>
     </div>
     <div>
@@ -179,12 +180,14 @@
 
     ul li {
       display: inline-block;
-      padding: $spacing / 6 $spacing / 4;
-      margin: $spacing / 6 $spacing / 4;
+      padding: $spacing / 8 $spacing / 4;
+      margin: $spacing / 6 0;
       border-radius: 4px;
+      font-size: 0.8rem;
 
       &.terms {
         color: #fff;
+        margin: $spacing / 6 $spacing / 8;
       }
 
       &:first-child {
@@ -197,7 +200,6 @@
     }
 
     .btn {
-      padding: $spacing / 6 $spacing / 4;
       border: 1px solid #eee;
       border-radius: 4px;
 
