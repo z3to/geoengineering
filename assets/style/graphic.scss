@@ -1,26 +1,21 @@
 line {
   &.zero {
-    stroke: palette(grey, 20);
+    stroke: #3B4BE7;
     stroke-width: 1px;
   }
 
   &.axis {
-    stroke: palette(grey, 70);
+    stroke: #3B4BE7;
     stroke-width: 1px;
   }
 
   &.tick {
-    stroke: palette(grey, 70);
+    stroke: #3B4BE7;
     stroke-width: 1px;
   }
 
   &.mean {
     stroke: palette(grey, 0);
-    stroke-width: 1px;
-  }
-
-  &.horizontalLine {
-    stroke: $color-red;
     stroke-width: 1px;
   }
 
@@ -30,7 +25,7 @@ line {
   }
 
   &.legend {
-    stroke: palette(grey, 20);
+    stroke: #3B4BE7;
     stroke-width: 2px;
   }
 }
@@ -85,13 +80,13 @@ g {
 
 text {
   &.tick, tspan.tick {
-    fill: palette(grey, 50);
-    font-weight: $font-weight-bold;
+    fill: $color-default;
+    font-weight: $font-weight-default;
     font-size: $size-small;
   }
 
   tspan.info {
-    fill: palette(grey, 60);
+    fill: $color-default;
     font-size: $size-smaller;
   }
 
@@ -102,7 +97,7 @@ text {
   }
 
   &.area {
-    fill: palette(accent, 0);
+    fill: $color-default;
   }
 
   &.marker {
@@ -110,23 +105,15 @@ text {
     // font-weight: $font-weight-bold;
     font-size: $size-default;
 
-    &.positive {
-      fill: $color-red;
-    }
-
-    &.negative {
-      fill: $color-green;
-    }
-
     .super {
       font-size: $size-smaller;
     }
   }
 
   &.axis {
-    fill: palette(grey, 20);
+    fill: $color-default;
     font-weight: $font-weight-bold;
-    font-size: $size-small;
+    font-size: $size-big;
   }
 
   &.dot {

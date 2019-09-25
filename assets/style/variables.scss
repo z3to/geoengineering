@@ -1,4 +1,4 @@
-$font-sans: "IBM Plex Sans", "Helvetica Neue", "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Open Sans", Helvetica, sans-serif !default;
+$font-sans: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
 $font-mono: "IBM Plex Mono", monospace !default;
 $font-serif: "IBM Plex Serif", "Georgia", serif !default;
 
@@ -11,51 +11,6 @@ $base-line-height: 1.7 !default;
 
 $spacing:     2rem !default;
 
-$color-violet:  hsl(247, 47%, 47%);
-$color-yellow:  #FEAE00;
-$color-green:   hsl(154, 57%, 50%);
-$color-red:     #B7005E;
-$color-blue:    #1BA3D0;
-
-$palettes: (
-  primary: (
-    100: hsl(247, 47%, 66%),
-    83:  hsl(247, 47%, 61%),
-    66:  hsl(247, 47%, 56%),
-    50:  hsl(247, 47%, 47%),
-    33:  hsl(247, 47%, 46%),
-    16:  hsl(247, 47%, 41%),
-    0:   hsl(247, 47%, 36%)
-  ),
-  accent: (
-    100: hsl(154, 57%, 66%),
-    83:  hsl(154, 57%, 61%),
-    66:  hsl(154, 57%, 56%),
-    50:  hsl(154, 57%, 50%),
-    33:  hsl(154, 57%, 46%),
-    16:  hsl(154, 57%, 41%),
-    0:   hsl(154, 57%, 36%)
-  ),
-  grey: (
-    100: hsl(240, 5%, 100%),
-    90:  #F5F6F7,
-    80:  #F0F1F2,
-    70:  hsl(240, 5%, 80%),
-    60:  hsl(240, 5%, 65%),
-    50:  hsl(240, 5%, 56%),
-    40:  hsl(240, 5%, 47%),
-    30:  hsl(240, 5%, 39%),
-    20:  hsl(240, 5%, 30%),
-    10:  hsl(240, 5%, 22%),
-    0:   hsl(240, 5%, 13%)
-  )
-);
-
-@function palette($palette, $tone: '50') {
-  @return map-get(map-get($palettes, $palette), $tone);
-}
-
-$color-accent:      $color-violet;
 $color-black:       #222222;
 $color-white:       #ffffff;
 $color-pale-gray:   #f3f3f3;
@@ -63,7 +18,7 @@ $color-light-gray:  #dddddd;
 $color-gray:        #bbbbbb;
 $color-dark-gray:   #888888;
 
-$color-default:   #222222 !default;
+$color-default:   #ECEEFB !default;
 $color-darker:    #626C76 !default;
 $color-dark:      #D0CFCE !default;
 $color-accent:    #569CE1 !default;

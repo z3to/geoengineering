@@ -1,7 +1,7 @@
 <template>
-  <footer class="vis-footer">
+  <aside class="vis-aside">
     <div>
-      <strong>Try:</strong>
+      <strong>Try</strong>
       <ul>
         <li class="clickable btn" @click="updateTerm('cdr, srm')">CDR, SRM</li>
         <li class="clickable btn" @click="updateTerm('sea, earth')">Sea, Earth</li>
@@ -128,7 +128,7 @@
         <li class="clickable btn" @click="updateTerm('arctic')" v-html="'arctic'" />
       </ul>
     </div>
-  </footer>
+  </aside>
 </template>
 
 <script>
@@ -160,11 +160,10 @@
 <style lang="scss" scoped>
   @import "~@/assets/style/global";
 
-  .vis-footer {
+  .vis-aside {
     display: grid;
     grid-row-gap: $spacing / 2;
     width: 60vw;
-    height: 30vh;
     margin-top: 2vh;
 
     ul, input {
@@ -200,11 +199,12 @@
     }
 
     .btn {
-      border: 1px solid #eee;
+      border: 1px solid #3B4BE7;
       border-radius: 4px;
 
       &:hover {
-        background-color: #eee;
+        border-color: $color-default;
+        background-color: $color-default;
       }
     }
   }

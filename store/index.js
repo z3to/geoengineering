@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 import VTooltip from 'v-tooltip'
 import data from './modules/data'
 import { isUndefined, words, map, slice, get, forEach, fromPairs, sum } from 'lodash'
-import { schemeCategory10 } from 'd3-scale-chromatic'
+import { schemeSet2 } from 'd3-scale-chromatic'
 import { timeParse } from 'd3-time-format'
 
 const parseTime = timeParse('%Y-%m-%V')
@@ -60,7 +60,7 @@ export const mutations = {
       state.terms = map(terms, (term, i) => {
         return {
           term,
-          color: schemeCategory10[i]
+          color: schemeSet2[i]
         }
       })
     }
