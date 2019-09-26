@@ -39,12 +39,12 @@
         const { scaleX, scaleY } = this
 
         const pathFunction = line()
-          .curve(curveCardinal)
+          .curve(curveCardinal.tension(0.5))
           .x(d => { return scaleX(d[0]) })
           .y(d => { return scaleY(d[1]) })
 
         const areaFunction = area()
-          .curve(curveCardinal)
+          .curve(curveCardinal.tension(0.5))
           .x(d => { return scaleX(d[0]) })
           .y1(d => { return scaleY(d[1]) })
           .y0(scaleY(0))
