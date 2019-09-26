@@ -153,6 +153,9 @@
       updateTerm (input) {
         this.$store.commit('SET_TERMS', input)
       }
+    },
+    mounted () {
+      this.updateTerm('climate')
     }
   }
 </script>
