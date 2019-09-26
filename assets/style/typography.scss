@@ -22,6 +22,16 @@ h1, h2, h3, strong {
   font-weight: 700;
 }
 
+a {
+  color: $color-default;
+  text-decoration: underline;
+
+  &:hover, &:focus, &:active {
+    background-color: $color-default;
+    color: #2130BF;
+  }
+}
+
 .btn {
 	color: $color-default;
 	font-weight: 500;
