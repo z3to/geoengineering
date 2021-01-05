@@ -13,7 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "d3-array": "^2.0.3",
     "d3-axis": "^1.0.12",
     "d3-delaunay": "^4.1.5",
